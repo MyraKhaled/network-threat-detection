@@ -1,0 +1,24 @@
+# Data files (too large for GitHub)
+*.csv
+*.pkl
+*.parquet
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Kaggle output files
+__output__.json
+__results__.html
+__notebook__.ipynb
+
+# ML Models
+*.h5
+*.joblib
+
+# Logs
+*.log
+mlruns/
