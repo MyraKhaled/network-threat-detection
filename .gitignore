@@ -1,6 +1,5 @@
 # Data files (too large for GitHub)
 *.csv
-*.pkl
 *.parquet
 data/
 
